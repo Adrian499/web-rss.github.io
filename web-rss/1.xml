@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+    <channel>
+        <title>My RSS</title>
+        <link></link>
+        <description></description>
+        <language>en-us</language>
+        <copyright><![CDATA[  ]]></copyright>
+        <image>
+            <url></url>
+            <title>My RSS</title>
+            <link></link>
+        </image>
+        <item>
+            <title>Protección de Datos investiga a ChatGPT</title>
+            <link>https://elpais.com/tecnologia/2023-04-13/la-agencia-espanola-de-proteccion-de-datos-investiga-chatgpt-por-posible-incumplimiento-de-la-normativa.html</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+        <item>
+            <title>poder de una energía más limpia y barata</title>
+            <link>https://elpais.com/tecnologia/2023-04-17/redes-locales-de-energia-el-poder-de-la-gente-al-servicio-de-una-energia-mas-limpia-y-barata.html</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+        <item>
+            <title>El atraco de Lazarus</title>
+            <link>https://www.bbc.com/mundo/noticias-internacional-65154831</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+        <item>
+            <title>la clave de los viajes supersónicos</title>
+            <link>https://www.bbc.com/mundo/vert-fut-65097471</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+        <item>
+            <title>trabajadores en países pobres que hacen posible la existencia de inteligencia artificial</title>
+            <link>https://www.bbc.com/mundo/noticias-64827257</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+        <item>
+            <title>Un experimento permite reproducir un fenómeno físico nunca observado</title>
+            <link>https://www.elmundo.es/ciencia-y-salud/ciencia/2023/04/06/642ae5a3e4d4d818568b4588.html</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+        <item>
+            <title>¿Tan peligroso es conectar el móvil a un punto de recarga público?</title>
+            <link>https://www.eldiario.es/tecnologia/peligroso-conectar-movil-punto-recarga-publico_1_10116085.html</link>
+            <pubDate>,    12:00:00 GMT</pubDate>
+            <author></author>
+            <category></category>
+        </item>
+    </channel>
+</rss>
